@@ -1,5 +1,5 @@
 ### Hi there 👋
-github-readme-stats.vercel.app/api/top-langs/?username=skehdxhd96&langs_count=8
+[![NDM's GitHub stats](https://github-readme-stats.vercel.app/api?username=skehdxhd96)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **skehdxhd96/skehdxhd96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
