@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+github-readme-stats.vercel.app/api/top-langs/?username=skehdxhd96&langs_count=8
 <!--
 **skehdxhd96/skehdxhd96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
