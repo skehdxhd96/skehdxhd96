@@ -11,12 +11,12 @@
 
 ### Interests
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java)
-![Javascript](https://img.shields.io/badge/Javascript-2088FF?style=flat&logo=Javascript)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot)
+![Javascript](https://img.shields.io/badge/Javascript-2088FF?style=flat&logo=Javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js)<br>
 ![Github Action](https://img.shields.io/badge/GithubActions-2088FF?style=flat&logo=GithubActions)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL)<br>
 ![AmazonAWS](https://img.shields.io/badge/AmazonAWS-232F3E?style=flat&logo=AmazonAWS)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes)
