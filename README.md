@@ -7,6 +7,8 @@
 ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skehdxhd96&layout=compact&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 
+### Interests
+[![Java](https://img.shields.io/badge/-Java-#007396?style=flat&logo=Java)]
 <!--
 **skehdxhd96/skehdxhd96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
