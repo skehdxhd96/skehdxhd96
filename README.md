@@ -11,6 +11,8 @@
 
 ### Interests
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java)
+![SpringBoot](https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot)
+![Github Action](https://img.shields.io/badge/Github Action-2088FF?style=flat&logo=Github Action)
 
 <!--
 **skehdxhd96/skehdxhd96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
