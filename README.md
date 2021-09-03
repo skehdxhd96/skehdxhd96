@@ -10,7 +10,7 @@
 ***
 
 ### Interests
-[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java)]
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java)
 
 <!--
 **skehdxhd96/skehdxhd96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
